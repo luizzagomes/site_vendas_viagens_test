@@ -1,0 +1,18 @@
+h2{
+    font-size: 54px;
+    color: #303030;
+    font-weight: 600;
+}
+
+
+section a{
+    color: rgb(73, 43, 226);
+}
+
+.carousel-caption h5{
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px black;
+    /*background-color: #ffc107;*/
+}
+
